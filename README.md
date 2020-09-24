@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+Sutej Singh (he/him/his)
+Computer Science and Physics student at USFCA
+
 
 <!--
 **SutejSingh/sutejsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
