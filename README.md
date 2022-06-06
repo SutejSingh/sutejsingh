@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 Sutej Singh (he/him/his)
-Computer Science and Physics student at USC
+Computer Science student at USC
 
 
 <!--
